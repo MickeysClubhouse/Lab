@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Share your travels</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!--<style rel="stylesheet">-->
+        <!--nav,div,li{border:1px solid black}-->
+    <!--</style>-->
+</head>
+<body>
+<header class="container">
+    <div class="row text-center align-items-center">
+        <div class="col-md-5">
+            <h1>Share Your Travels</h1>
+            <h5 class="font-italic">Let us know where you've been</h5>
+        </div>
+        <div class="col-md-7">
+        <nav class="navbar navbar-light navbar-expand-sm row justify-content-center">
+                <ul class="navbar-nav">
+                    <li class="nav-item col-md-4 ">
+                        <a class="nav-link " href="upload.html">Upload</a>
+                    </li>
+                    <li class="nav-item col-md-6 ">
+                        <a class="nav-link " href="#">Related Photos</a>
+                    </li>
+                    <li class="nav-item col-md-2 ">
+                        <a class="nav-link" href="#">Reviews</a>
+                    </li>
+                </ul>
+        </nav></div></div>
+</header>
+<div class="container">
+<div class="row">
+    <div class="col-md-9 table-bordered p-3">
+        <h3 class="title">New York - Central Park</h3>
+        <figure>
+            <figcaption><h6>Conservatory Pond in Central Park</h6></figcaption>
+            <a href="centralpark.html"><img src="images/large-central-park.jpg" class="img-fluid"/></a>
+        </figure>
+        <p id="details">This photo of Conservatory Pond in <a href="#">Central Park</a> in <a href="#">New York City</a> was taken on October 22,2016 with a Canon EOS 30D camera.</p>
+        <div class="btn-group btn-group-sm float-right">
+            <button class="btn btn-light"><img src="images/icon_download.png" width="18" height="18"></button>
+            <button class="btn btn-light"><img src="images/icon_mail.png" width="18" height="18"></button>
+            <button class="btn btn-light"><img src="images/icon_map.png" width="18" height="18"></button>
+            <button class="btn btn-light"><img src="images/icon_up.png" width="18" height="18"></button>
+            <button class="btn btn-light"><img src="images/icon_down.png" width="18" height="18"></button>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="row ml-1 mr-1">
+        <div class="table-bordered p-3 col-md-12">
+        <h3>Related Photos</h3>
+        <div id="demo" class="carousel slide" data-ride="carousel">
+            <!-- 指示符 -->
+            <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <li data-target="#demo" data-slide-to="1"></li>
+                <li data-target="#demo" data-slide-to="2"></li>
+            </ul>
+            <!-- 轮播图片 -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <a href="related1.html"><img src="images/related-square1.jpg" class="img-fluid" style="width: 100%"></a>
+                </div>
+                <div class="carousel-item">
+                    <a href="related2.html"><img src="images/related-square2.jpg" class="img-fluid" style="width: 100%"></a>
+                </div>
+                <div class="carousel-item">
+                    <a href="related3.html"><img src="images/related-square3.jpg" class="img-fluid" style="width: 100%"></a>
+                </div>
+            </div>
+            <!-- 左右切换按钮 -->
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+        </div>
+    <div class="col-md-12 table-bordered">
+        <div class="container text-center pt-2 pb-2">
+            <div class="row align-items-center">
+                <h3 class="text-left">Reviews</h3>
+                <div class="w-100"></div>
+                <a class="nav-link col-md-12 col-sm-3 col-3 text-dark" data-toggle="collapse" aria-controls="ricardo" href="#ricardo"><strong><em>Ricardo</em></strong></a>
+                <p class="col-md-12 col-sm-4 col-4"><a class="badge-pill badge-info"  data-toggle="collapse" href="#ricardo"><small>2016-05-23</small></a></p>
+            <div id="ricardo" class="collapse col-md-12 col-sm-5 col-5">
+                <small>Easy on the HDR buddy.</small>
+            </div>
+                <div class="w-100"><hr></div>
+                <a class="nav-link col-md-12 col-sm-3 col-3 text-dark" data-toggle="collapse" aria-controls="susan" href="#susan"><strong><em>Susan</em></strong></a>
+                <p class="col-md-12 col-sm-4 col-4"><a class="badge-pill badge-info"  data-toggle="collapse" href="#susan"><small>2016-11-18</small></a></p>
+            <div id="susan" class="collapse col-md-12 col-sm-5 col-5">
+                <small>I love Central Park.</small>
+            </div>
+            </div>
+</div>
+    </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="container">
+    <nav class="navbar navbar-expand-sm navbar-light row justify-content-center">
+            <ul class="navbar-nav">
+                <li class="nav-item col-md-2">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item col-md-2">
+                </li>
+                <li class="nav-item col-md-2">
+                    <a class="nav-link" href="#">Features</a>
+                </li>
+                <li class="nav-item col-md-2">
+                </li>
+                <li class="nav-item col-md-2 ">
+                    <a class="nav-link" href="#">Pricing</a>
+                </li>
+            </ul>
+    </nav>
+    <div class="text-center"><p id="cpRight"><em>Copyright © 2017 Share Your Travels</em></p></div>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+</body>
+</html>
