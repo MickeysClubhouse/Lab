@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f8bd8c-0b97-45e6-a9f2-a5fc8502bbfe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/lab/Lab04.html" afterPath="$PROJECT_DIR$/lab/Lab04.html" />
-      <change beforePath="$PROJECT_DIR$/lab/upload.html" afterPath="$PROJECT_DIR$/lab/upload.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,21 +16,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="lab05.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab/lab05.html">
+      <file leaf-file-name="Lab06.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab/css/Lab06.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-506">
-              <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+            <state relative-caret-position="-1357">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab/upload.html">
+      <file leaf-file-name="lab06.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab/lab06.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="118" column="14" lean-forward="true" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+            <state relative-caret-position="345">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab/js/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -42,6 +51,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -59,6 +70,11 @@
         <option value="$PROJECT_DIR$/lab/related3.html" />
         <option value="$PROJECT_DIR$/lab/lab05.html" />
         <option value="$PROJECT_DIR$/lab/upload.html" />
+        <option value="$PROJECT_DIR$/lab06.html" />
+        <option value="$PROJECT_DIR$/lab/css/Lab06.css" />
+        <option value="$PROJECT_DIR$/11.html" />
+        <option value="$PROJECT_DIR$/lab/lab06.html" />
+        <option value="$PROJECT_DIR$/lab/js/data.js" />
       </list>
     </option>
   </component>
@@ -69,7 +85,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="100" />
+    <option name="y" value="11" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -88,8 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,10 +117,18 @@
               <item name="Lab" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,6 +137,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,11 +151,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.lab06.html">
     <configuration name="lab05.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Lab/lab/lab05.html" />
+    <configuration name="lab06.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Lab/lab/lab06.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lab05.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lab06.html" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lab05.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lab06.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lab05.html" />
       </list>
     </recent_temporary>
   </component>
@@ -156,12 +186,14 @@
       <workItem from="1523930168598" duration="57000" />
       <workItem from="1523952482920" duration="86000" />
       <workItem from="1523965178407" duration="114000" />
-      <workItem from="1523965999635" duration="30000" />
+      <workItem from="1523965999635" duration="627000" />
+      <workItem from="1525748963096" duration="277000" />
+      <workItem from="1525749333044" duration="15297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43193000" />
+    <option name="totallyTimeSpent" value="59364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -171,12 +203,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -212,11 +244,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab/lab05.html">
+    <entry file="file://$PROJECT_DIR$/lab06.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -224,11 +258,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab/css/Lab06.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab/lab05.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="874">
+          <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2553">
+          <caret line="111" column="51" lean-forward="true" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -236,7 +284,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/lab05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/lab05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -255,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -274,7 +334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2461">
           <caret line="107" column="35" lean-forward="true" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -296,7 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -304,7 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -329,16 +386,54 @@
     <entry file="file://$PROJECT_DIR$/lab/related3.html" />
     <entry file="file://$PROJECT_DIR$/lab/lab05.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-506">
+        <state relative-caret-position="874">
           <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab/upload.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="118" column="14" lean-forward="true" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+        <state relative-caret-position="552">
+          <caret line="111" column="51" lean-forward="false" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/css/Lab06.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1357">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/lab06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
           <folding />
         </state>
       </provider>
