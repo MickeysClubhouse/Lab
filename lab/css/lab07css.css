@@ -1,0 +1,22 @@
+form{
+    text-align:center
+}
+.fixWidth{
+    width: 300px;
+}
+.off{
+    display: none;
+}
+#table th{
+    background-color: grey;
+    color: whitesmoke;
+    padding: 0.05em;
+}
+
+#table tr td{
+    padding: 0.05em;
+}
+
+.notEven{
+    background-color: lightgray;
+}
