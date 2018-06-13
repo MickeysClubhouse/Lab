@@ -24,7 +24,7 @@
         <div class="row">
     
         <!-- include left here -->
-            <?php include 'left.inc.php'; ?>
+            <?php include 'left.inc.php';  ?>
             <div class="col-md-10">
                 <div class="jumbotron" id="postJumbo">
                     <h1>Posts</h1>
